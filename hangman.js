@@ -133,8 +133,6 @@ class Manager {
 
     this.addButtonsHandlers(buttons)
     this.addKeyPressHandler(buttons)
-
-    // this.result.refresh()
   }
 
   start() {
