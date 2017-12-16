@@ -1,3 +1,7 @@
+body {
+	text-align: center;
+}
+
 #hangman {
 	stroke: black;
 	stroke-width: 3;
@@ -11,4 +15,8 @@
 
 #hangman .hidden {
 	display: none;
+}
+
+#result {
+	font-size: 2em;
 }
